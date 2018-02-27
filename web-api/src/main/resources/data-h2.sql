@@ -1,0 +1,1 @@
+INSERT INTO bank_account (id, account_number, iban, bank_name, bic) VALUES (1, '931234881212', 'CY17 0020 0128 0000 0012 0052 7600', 'Bank of America', 3242422), (2, '123123211111000', '0000 0020 0128 0000 0000 0052 7600', 'Bank of USA', 1112224);
