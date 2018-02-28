@@ -14,6 +14,7 @@ For building and running the application you need:
 
 JDK 1.8
 Maven 3
+* to build a fat jar ### spring-boot-maven-plugin with goal ### repackage was used  
 
 To test the endpoints Swagger UI is used. http://localhost:5454/swagger-ui.html
 
