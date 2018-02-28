@@ -2,6 +2,11 @@ spring-boot-rest-h2
 
 Spring boot MVC app with embadded h2 database.
 
+Modules:
+        /core-data
+        /core-services	
+        /web-api
+
 main class: /web-api/ com.banking.Application.java
 
 Requirements
